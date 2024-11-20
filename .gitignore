@@ -164,7 +164,7 @@ cython_debug/
 benchmark
 data/*
 results/*
-!results/Test_NH_Extrapolation.ipynb
+!results/ResultAnalysis.ipynb
 !results/benchmark.ipynb
 !results/functions_evaluation.py
 Experiment reproduction.docx

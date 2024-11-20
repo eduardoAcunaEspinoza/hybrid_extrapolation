@@ -116,6 +116,7 @@ save_weights_every: 1
 
 # Store the results of the validation to disk
 save_validation_results: True
+save_all_output: True
 
 # --- Data configurations --------------------------------------------------------------------------
 
